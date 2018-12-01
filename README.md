@@ -12,10 +12,6 @@
   * SQL and Databases provide us with a very powerful way to represent data and to draw conclusions about that data.  Its also considered very efficient at accessing and storing data, to the point where most applications that have to store data consider databases.  
   * SQL also helps to formalize data storage, instead of having to learn how everyone stores and accesses their data you can use SQL as a uniform file access and modification language.
 
-
-
-* * *
-
 ## Getting Sqlite3
   For this tutorial we will be using sqlite3 as our relational database management system.  
   To install and use sqlite 3 follow instructions at: https://www.tutorialspoint.com/sqlite/sqlite_installation.htm  
