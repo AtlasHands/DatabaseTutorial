@@ -1,6 +1,7 @@
 #Table of Contents  
 
-[TOC]
+* TOC
+{:toc}
 
 # Learning SQL With SQLite3
 * * *
